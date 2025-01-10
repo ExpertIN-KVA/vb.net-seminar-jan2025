@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2_loop\bin\Debug\net8.0-windows\Lesson2_loop.exe
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2_loop\bin\Debug\net8.0-windows\Lesson2_loop.deps.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2_loop\bin\Debug\net8.0-windows\Lesson2_loop.runtimeconfig.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2_loop\bin\Debug\net8.0-windows\Lesson2_loop.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2_loop\bin\Debug\net8.0-windows\Lesson2_loop.pdb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2_loop\obj\Debug\net8.0-windows\Lesson2_loop.Form1.resources
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2_loop\obj\Debug\net8.0-windows\Lesson2_loop.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2_loop\obj\Debug\net8.0-windows\Lesson2_loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2_loop\obj\Debug\net8.0-windows\Lesson2_loop.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2_loop\obj\Debug\net8.0-windows\Lesson2_loop.AssemblyInfo.vb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2_loop\obj\Debug\net8.0-windows\Lesson2_loop.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2_loop\obj\Debug\net8.0-windows\Lesson2_loop.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2_loop\obj\Debug\net8.0-windows\refint\Lesson2_loop.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2_loop\obj\Debug\net8.0-windows\Lesson2_loop.pdb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2_loop\obj\Debug\net8.0-windows\Lesson2_loop.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2_loop\obj\Debug\net8.0-windows\ref\Lesson2_loop.dll

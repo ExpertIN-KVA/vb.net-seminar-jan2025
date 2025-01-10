@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\ExrciseLesson1\obj\Debug\net8.0-windows\ExrciseLesson1.ExerciseForm.resources
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\ExrciseLesson1\obj\Debug\net8.0-windows\ExrciseLesson1.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\ExrciseLesson1\obj\Debug\net8.0-windows\ExrciseLesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\ExrciseLesson1\obj\Debug\net8.0-windows\ExrciseLesson1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\ExrciseLesson1\obj\Debug\net8.0-windows\ExrciseLesson1.AssemblyInfo.vb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\ExrciseLesson1\obj\Debug\net8.0-windows\ExrciseLesson1.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\ExrciseLesson1\bin\Debug\net8.0-windows\ExrciseLesson1.exe
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\ExrciseLesson1\bin\Debug\net8.0-windows\ExrciseLesson1.deps.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\ExrciseLesson1\bin\Debug\net8.0-windows\ExrciseLesson1.runtimeconfig.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\ExrciseLesson1\bin\Debug\net8.0-windows\ExrciseLesson1.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\ExrciseLesson1\bin\Debug\net8.0-windows\ExrciseLesson1.pdb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\ExrciseLesson1\obj\Debug\net8.0-windows\ExrciseLesson1.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\ExrciseLesson1\obj\Debug\net8.0-windows\refint\ExrciseLesson1.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\ExrciseLesson1\obj\Debug\net8.0-windows\ExrciseLesson1.pdb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\ExrciseLesson1\obj\Debug\net8.0-windows\ExrciseLesson1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\ExrciseLesson1\obj\Debug\net8.0-windows\ref\ExrciseLesson1.dll

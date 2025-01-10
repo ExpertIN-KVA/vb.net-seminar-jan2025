@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBA731D-07ED-408B-A576-720605F10F67}|WinFormsApp1.vbproj|c:\\users\\administrator\\desktop\\winformsapp1\\demo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CDBA731D-07ED-408B-A576-720605F10F67}|WinFormsApp1.vbproj|solutionrelative:demo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBA731D-07ED-408B-A576-720605F10F67}|WinFormsApp1.vbproj|c:\\users\\administrator\\desktop\\winformsapp1\\antigoni.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CDBA731D-07ED-408B-A576-720605F10F67}|WinFormsApp1.vbproj|solutionrelative:antigoni.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBA731D-07ED-408B-A576-720605F10F67}|WinFormsApp1.vbproj|c:\\users\\administrator\\desktop\\winformsapp1\\antigoni.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CDBA731D-07ED-408B-A576-720605F10F67}|WinFormsApp1.vbproj|solutionrelative:antigoni.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demo.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\WinFormsApp1\\demo.vb",
+              "RelativeDocumentMoniker": "demo.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\WinFormsApp1\\demo.vb [Design]",
+              "RelativeToolTip": "demo.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-03T15:31:24.125Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "antigoni.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\WinFormsApp1\\antigoni.vb",
+              "RelativeDocumentMoniker": "antigoni.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\WinFormsApp1\\antigoni.vb",
+              "RelativeToolTip": "antigoni.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-03T14:38:41.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "antigoni.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\WinFormsApp1\\antigoni.vb",
+              "RelativeDocumentMoniker": "antigoni.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\WinFormsApp1\\antigoni.vb [Design]",
+              "RelativeToolTip": "antigoni.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-03T14:18:24.241Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

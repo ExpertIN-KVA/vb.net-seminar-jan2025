@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2\bin\Debug\net8.0-windows\Lesson2.exe
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2\bin\Debug\net8.0-windows\Lesson2.deps.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2\bin\Debug\net8.0-windows\Lesson2.runtimeconfig.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2\bin\Debug\net8.0-windows\Lesson2.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2\bin\Debug\net8.0-windows\Lesson2.pdb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2\obj\Debug\net8.0-windows\Lesson2.Form1.resources
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2\obj\Debug\net8.0-windows\Lesson2.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2\obj\Debug\net8.0-windows\Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2\obj\Debug\net8.0-windows\Lesson2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2\obj\Debug\net8.0-windows\Lesson2.AssemblyInfo.vb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2\obj\Debug\net8.0-windows\Lesson2.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2\obj\Debug\net8.0-windows\Lesson2.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2\obj\Debug\net8.0-windows\refint\Lesson2.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2\obj\Debug\net8.0-windows\Lesson2.pdb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2\obj\Debug\net8.0-windows\Lesson2.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2\obj\Debug\net8.0-windows\ref\Lesson2.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\Lesson2\obj\Debug\net8.0-windows\Lesson2.comparisonIf.resources

@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\usingFunctions\bin\Debug\net8.0-windows\usingFunctions.exe
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\usingFunctions\bin\Debug\net8.0-windows\usingFunctions.deps.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\usingFunctions\bin\Debug\net8.0-windows\usingFunctions.runtimeconfig.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\usingFunctions\bin\Debug\net8.0-windows\usingFunctions.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\usingFunctions\bin\Debug\net8.0-windows\usingFunctions.pdb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\usingFunctions\obj\Debug\net8.0-windows\usingFunctions.Form1.resources
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\usingFunctions\obj\Debug\net8.0-windows\usingFunctions.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\usingFunctions\obj\Debug\net8.0-windows\usingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\usingFunctions\obj\Debug\net8.0-windows\usingFunctions.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\usingFunctions\obj\Debug\net8.0-windows\usingFunctions.AssemblyInfo.vb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\usingFunctions\obj\Debug\net8.0-windows\usingFunctions.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\usingFunctions\obj\Debug\net8.0-windows\usingFunctions.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\usingFunctions\obj\Debug\net8.0-windows\refint\usingFunctions.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\usingFunctions\obj\Debug\net8.0-windows\usingFunctions.pdb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\usingFunctions\obj\Debug\net8.0-windows\usingFunctions.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\usingFunctions\obj\Debug\net8.0-windows\ref\usingFunctions.dll

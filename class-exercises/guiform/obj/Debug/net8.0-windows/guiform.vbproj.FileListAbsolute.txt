@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\guiform\bin\Debug\net8.0-windows\guiform.exe
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\guiform\bin\Debug\net8.0-windows\guiform.deps.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\guiform\bin\Debug\net8.0-windows\guiform.runtimeconfig.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\guiform\bin\Debug\net8.0-windows\guiform.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\guiform\bin\Debug\net8.0-windows\guiform.pdb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\guiform\obj\Debug\net8.0-windows\guiform.personal_data_form.resources
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\guiform\obj\Debug\net8.0-windows\guiform.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\guiform\obj\Debug\net8.0-windows\guiform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\guiform\obj\Debug\net8.0-windows\guiform.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\guiform\obj\Debug\net8.0-windows\guiform.AssemblyInfo.vb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\guiform\obj\Debug\net8.0-windows\guiform.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\guiform\obj\Debug\net8.0-windows\guiform.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\guiform\obj\Debug\net8.0-windows\refint\guiform.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\guiform\obj\Debug\net8.0-windows\guiform.pdb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\guiform\obj\Debug\net8.0-windows\guiform.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\guiform\obj\Debug\net8.0-windows\ref\guiform.dll

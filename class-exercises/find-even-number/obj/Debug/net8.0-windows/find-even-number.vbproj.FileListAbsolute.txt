@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\find-even-number\bin\Debug\net8.0-windows\find-even-number.exe
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\find-even-number\bin\Debug\net8.0-windows\find-even-number.deps.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\find-even-number\bin\Debug\net8.0-windows\find-even-number.runtimeconfig.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\find-even-number\bin\Debug\net8.0-windows\find-even-number.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\find-even-number\bin\Debug\net8.0-windows\find-even-number.pdb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\find-even-number\obj\Debug\net8.0-windows\find_even_number.Form1.resources
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\find-even-number\obj\Debug\net8.0-windows\find-even-number.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\find-even-number\obj\Debug\net8.0-windows\find-even-number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\find-even-number\obj\Debug\net8.0-windows\find-even-number.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\find-even-number\obj\Debug\net8.0-windows\find-even-number.AssemblyInfo.vb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\find-even-number\obj\Debug\net8.0-windows\find-even-number.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\find-even-number\obj\Debug\net8.0-windows\find-even-number.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\find-even-number\obj\Debug\net8.0-windows\refint\find-even-number.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\find-even-number\obj\Debug\net8.0-windows\find-even-number.pdb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\find-even-number\obj\Debug\net8.0-windows\find-even-number.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\find-even-number\obj\Debug\net8.0-windows\ref\find-even-number.dll

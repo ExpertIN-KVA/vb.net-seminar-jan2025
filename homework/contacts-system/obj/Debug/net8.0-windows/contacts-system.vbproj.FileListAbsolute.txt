@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\contacts-system\bin\Debug\net8.0-windows\contacts-system.exe
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\contacts-system\bin\Debug\net8.0-windows\contacts-system.deps.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\contacts-system\bin\Debug\net8.0-windows\contacts-system.runtimeconfig.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\contacts-system\bin\Debug\net8.0-windows\contacts-system.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\contacts-system\bin\Debug\net8.0-windows\contacts-system.pdb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\contacts-system\obj\Debug\net8.0-windows\contacts_system.Form1.resources
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\contacts-system\obj\Debug\net8.0-windows\contacts-system.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\contacts-system\obj\Debug\net8.0-windows\contacts-system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\contacts-system\obj\Debug\net8.0-windows\contacts-system.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\contacts-system\obj\Debug\net8.0-windows\contacts-system.AssemblyInfo.vb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\contacts-system\obj\Debug\net8.0-windows\contacts-system.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\contacts-system\obj\Debug\net8.0-windows\contacts-system.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\contacts-system\obj\Debug\net8.0-windows\refint\contacts-system.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\contacts-system\obj\Debug\net8.0-windows\contacts-system.pdb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\contacts-system\obj\Debug\net8.0-windows\contacts-system.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\homework\contacts-system\obj\Debug\net8.0-windows\ref\contacts-system.dll

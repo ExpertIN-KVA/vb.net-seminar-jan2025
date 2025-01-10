@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\functionsCatch\bin\Debug\net8.0-windows\functionsCatch.exe
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\functionsCatch\bin\Debug\net8.0-windows\functionsCatch.deps.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\functionsCatch\bin\Debug\net8.0-windows\functionsCatch.runtimeconfig.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\functionsCatch\bin\Debug\net8.0-windows\functionsCatch.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\functionsCatch\bin\Debug\net8.0-windows\functionsCatch.pdb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\functionsCatch\obj\Debug\net8.0-windows\functionsCatch.Form1.resources
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\functionsCatch\obj\Debug\net8.0-windows\functionsCatch.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\functionsCatch\obj\Debug\net8.0-windows\functionsCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\functionsCatch\obj\Debug\net8.0-windows\functionsCatch.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\functionsCatch\obj\Debug\net8.0-windows\functionsCatch.AssemblyInfo.vb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\functionsCatch\obj\Debug\net8.0-windows\functionsCatch.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\functionsCatch\obj\Debug\net8.0-windows\functionsCatch.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\functionsCatch\obj\Debug\net8.0-windows\refint\functionsCatch.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\functionsCatch\obj\Debug\net8.0-windows\functionsCatch.pdb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\functionsCatch\obj\Debug\net8.0-windows\functionsCatch.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\presentation-code\functionsCatch\obj\Debug\net8.0-windows\ref\functionsCatch.dll

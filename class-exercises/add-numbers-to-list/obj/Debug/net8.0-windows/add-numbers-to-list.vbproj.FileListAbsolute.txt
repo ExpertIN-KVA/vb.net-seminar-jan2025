@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\add-numbers-to-list\bin\Debug\net8.0-windows\add-numbers-to-list.exe
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\add-numbers-to-list\bin\Debug\net8.0-windows\add-numbers-to-list.deps.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\add-numbers-to-list\bin\Debug\net8.0-windows\add-numbers-to-list.runtimeconfig.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\add-numbers-to-list\bin\Debug\net8.0-windows\add-numbers-to-list.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\add-numbers-to-list\bin\Debug\net8.0-windows\add-numbers-to-list.pdb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\add-numbers-to-list\obj\Debug\net8.0-windows\add_numbers_to_list.Form1.resources
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\add-numbers-to-list\obj\Debug\net8.0-windows\add-numbers-to-list.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\add-numbers-to-list\obj\Debug\net8.0-windows\add-numbers-to-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\add-numbers-to-list\obj\Debug\net8.0-windows\add-numbers-to-list.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\add-numbers-to-list\obj\Debug\net8.0-windows\add-numbers-to-list.AssemblyInfo.vb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\add-numbers-to-list\obj\Debug\net8.0-windows\add-numbers-to-list.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\add-numbers-to-list\obj\Debug\net8.0-windows\add-numbers-to-list.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\add-numbers-to-list\obj\Debug\net8.0-windows\refint\add-numbers-to-list.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\add-numbers-to-list\obj\Debug\net8.0-windows\add-numbers-to-list.pdb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\add-numbers-to-list\obj\Debug\net8.0-windows\add-numbers-to-list.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\class-exercises\add-numbers-to-list\obj\Debug\net8.0-windows\ref\add-numbers-to-list.dll

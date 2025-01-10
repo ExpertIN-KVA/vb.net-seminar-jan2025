@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\presentation-code\\lesson1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCEFCFE-FF12-41B1-B27D-7CB71FFDE067}|lesson1.vbproj|c:\\users\\administrator\\desktop\\vb.net-seminar-expertin\\presentation-code\\lesson1\\central_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3BCEFCFE-FF12-41B1-B27D-7CB71FFDE067}|lesson1.vbproj|solutionrelative:central_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCEFCFE-FF12-41B1-B27D-7CB71FFDE067}|lesson1.vbproj|c:\\users\\administrator\\desktop\\vb.net-seminar-expertin\\presentation-code\\lesson1\\central_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3BCEFCFE-FF12-41B1-B27D-7CB71FFDE067}|lesson1.vbproj|solutionrelative:central_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "central_form.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\presentation-code\\lesson1\\central_form.vb",
+              "RelativeDocumentMoniker": "central_form.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\presentation-code\\lesson1\\central_form.vb",
+              "RelativeToolTip": "central_form.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-21T18:02:14.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "central_form.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\presentation-code\\lesson1\\central_form.vb",
+              "RelativeDocumentMoniker": "central_form.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\presentation-code\\lesson1\\central_form.vb [Design]",
+              "RelativeToolTip": "central_form.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-21T17:59:14.844Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
