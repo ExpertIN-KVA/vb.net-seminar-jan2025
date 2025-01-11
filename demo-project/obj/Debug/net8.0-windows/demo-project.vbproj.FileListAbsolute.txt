@@ -14,3 +14,4 @@ C:\Users\Administrator\Desktop\vb.net-seminar-expertin\demo-project\obj\Debug\ne
 C:\Users\Administrator\Desktop\vb.net-seminar-expertin\demo-project\obj\Debug\net8.0-windows\demo-project.pdb
 C:\Users\Administrator\Desktop\vb.net-seminar-expertin\demo-project\obj\Debug\net8.0-windows\demo-project.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\vb.net-seminar-expertin\demo-project\obj\Debug\net8.0-windows\ref\demo-project.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\demo-project\obj\Debug\net8.0-windows\demo-project.sourcelink.json

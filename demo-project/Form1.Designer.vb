@@ -29,6 +29,11 @@ Partial Class Form1
         Button4 = New Button()
         Timer1 = New Timer(components)
         Button5 = New Button()
+        MenuStrip1 = New MenuStrip()
+        AToolStripMenuItem = New ToolStripMenuItem()
+        AToolStripMenuItem1 = New ToolStripMenuItem()
+        ToolStripMenuItem2 = New ToolStripMenuItem()
+        MenuStrip1.SuspendLayout()
         SuspendLayout()
         ' 
         ' Button1
@@ -36,7 +41,7 @@ Partial Class Form1
         Button1.BackColor = SystemColors.ActiveCaption
         Button1.Font = New Font("Segoe UI", 26.25F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         Button1.ForeColor = Color.White
-        Button1.Location = New Point(12, 12)
+        Button1.Location = New Point(12, 70)
         Button1.Name = "Button1"
         Button1.Size = New Size(301, 147)
         Button1.TabIndex = 0
@@ -88,6 +93,34 @@ Partial Class Form1
         Button5.UseVisualStyleBackColor = True
         Button5.Visible = False
         ' 
+        ' MenuStrip1
+        ' 
+        MenuStrip1.Items.AddRange(New ToolStripItem() {AToolStripMenuItem})
+        MenuStrip1.Location = New Point(0, 0)
+        MenuStrip1.Name = "MenuStrip1"
+        MenuStrip1.Size = New Size(800, 24)
+        MenuStrip1.TabIndex = 5
+        MenuStrip1.Text = "MenuStrip1"
+        ' 
+        ' AToolStripMenuItem
+        ' 
+        AToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {AToolStripMenuItem1, ToolStripMenuItem2})
+        AToolStripMenuItem.Name = "AToolStripMenuItem"
+        AToolStripMenuItem.Size = New Size(25, 20)
+        AToolStripMenuItem.Text = "a"
+        ' 
+        ' AToolStripMenuItem1
+        ' 
+        AToolStripMenuItem1.Name = "AToolStripMenuItem1"
+        AToolStripMenuItem1.Size = New Size(180, 22)
+        AToolStripMenuItem1.Text = "a"
+        ' 
+        ' ToolStripMenuItem2
+        ' 
+        ToolStripMenuItem2.Name = "ToolStripMenuItem2"
+        ToolStripMenuItem2.Size = New Size(180, 22)
+        ToolStripMenuItem2.Text = "-"
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
@@ -98,9 +131,14 @@ Partial Class Form1
         Controls.Add(Button3)
         Controls.Add(Button2)
         Controls.Add(Button1)
+        Controls.Add(MenuStrip1)
+        MainMenuStrip = MenuStrip1
         Name = "Form1"
         Text = "Form1"
+        MenuStrip1.ResumeLayout(False)
+        MenuStrip1.PerformLayout()
         ResumeLayout(False)
+        PerformLayout()
     End Sub
 
     Friend WithEvents Button1 As Button
@@ -109,5 +147,9 @@ Partial Class Form1
     Friend WithEvents Button4 As Button
     Friend WithEvents Timer1 As Timer
     Friend WithEvents Button5 As Button
+    Friend WithEvents MenuStrip1 As MenuStrip
+    Friend WithEvents AToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents AToolStripMenuItem1 As ToolStripMenuItem
+    Friend WithEvents ToolStripMenuItem2 As ToolStripMenuItem
 
 End Class
