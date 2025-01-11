@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\clickme_game\\clickme_menu_not-in-class-menuStrip\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F573029D-7695-4B18-AAE6-954D237971B4}|clickme_menu_not-in-class.vbproj|c:\\users\\administrator\\desktop\\vb.net-seminar-expertin\\clickme_game\\clickme_menu_not-in-class-menustrip\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{F573029D-7695-4B18-AAE6-954D237971B4}|clickme_menu_not-in-class.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F573029D-7695-4B18-AAE6-954D237971B4}|clickme_menu_not-in-class.vbproj|c:\\users\\administrator\\desktop\\vb.net-seminar-expertin\\clickme_game\\clickme_menu_not-in-class-menustrip\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{F573029D-7695-4B18-AAE6-954D237971B4}|clickme_menu_not-in-class.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F573029D-7695-4B18-AAE6-954D237971B4}|clickme_menu_not-in-class.vbproj|c:\\users\\administrator\\desktop\\vb.net-seminar-expertin\\clickme_game\\clickme_menu_not-in-class-menustrip\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F573029D-7695-4B18-AAE6-954D237971B4}|clickme_menu_not-in-class.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\clickme_game\\clickme_menu_not-in-class-menuStrip\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\clickme_game\\clickme_menu_not-in-class-menuStrip\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",

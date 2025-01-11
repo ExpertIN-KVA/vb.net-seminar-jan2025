@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\menuStrip-demo\bin\Debug\net8.0-windows\menuStrip-demo.exe
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\menuStrip-demo\bin\Debug\net8.0-windows\menuStrip-demo.deps.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\menuStrip-demo\bin\Debug\net8.0-windows\menuStrip-demo.runtimeconfig.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\menuStrip-demo\bin\Debug\net8.0-windows\menuStrip-demo.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\menuStrip-demo\bin\Debug\net8.0-windows\menuStrip-demo.pdb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\menuStrip-demo\obj\Debug\net8.0-windows\menuStrip_demo.Form1.resources
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\menuStrip-demo\obj\Debug\net8.0-windows\menuStrip-demo.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\menuStrip-demo\obj\Debug\net8.0-windows\menuStrip-demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\menuStrip-demo\obj\Debug\net8.0-windows\menuStrip-demo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\menuStrip-demo\obj\Debug\net8.0-windows\menuStrip-demo.AssemblyInfo.vb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\menuStrip-demo\obj\Debug\net8.0-windows\menuStrip-demo.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\menuStrip-demo\obj\Debug\net8.0-windows\menuStrip-demo.sourcelink.json
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\menuStrip-demo\obj\Debug\net8.0-windows\menuStrip-demo.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\menuStrip-demo\obj\Debug\net8.0-windows\refint\menuStrip-demo.dll
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\menuStrip-demo\obj\Debug\net8.0-windows\menuStrip-demo.pdb
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\menuStrip-demo\obj\Debug\net8.0-windows\menuStrip-demo.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\vb.net-seminar-expertin\menuStrip-demo\obj\Debug\net8.0-windows\ref\menuStrip-demo.dll

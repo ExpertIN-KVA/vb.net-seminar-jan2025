@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\WinFormsApp2\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\demo-projects\\WinFormsApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A150A674-0E4D-4001-BC7F-17AE19889D35}|WinFormsApp2.vbproj|c:\\users\\administrator\\desktop\\winformsapp2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{A150A674-0E4D-4001-BC7F-17AE19889D35}|WinFormsApp2.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{A150A674-0E4D-4001-BC7F-17AE19889D35}|WinFormsApp2.vbproj|c:\\users\\administrator\\desktop\\vb.net-seminar-expertin\\demo-projects\\winformsapp2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A150A674-0E4D-4001-BC7F-17AE19889D35}|WinFormsApp2.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A150A674-0E4D-4001-BC7F-17AE19889D35}|WinFormsApp2.vbproj|c:\\users\\administrator\\desktop\\winformsapp2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{A150A674-0E4D-4001-BC7F-17AE19889D35}|WinFormsApp2.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{A150A674-0E4D-4001-BC7F-17AE19889D35}|WinFormsApp2.vbproj|c:\\users\\administrator\\desktop\\vb.net-seminar-expertin\\demo-projects\\winformsapp2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A150A674-0E4D-4001-BC7F-17AE19889D35}|WinFormsApp2.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.vb",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\WinFormsApp2\\Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\demo-projects\\WinFormsApp2\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\WinFormsApp2\\Form1.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\demo-projects\\WinFormsApp2\\Form1.vb",
               "RelativeToolTip": "Form1.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-01-04T13:53:52.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\WinFormsApp2\\Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\demo-projects\\WinFormsApp2\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\WinFormsApp2\\Form1.vb [Design]",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\demo-projects\\WinFormsApp2\\Form1.vb [Design]",
               "RelativeToolTip": "Form1.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-01-03T15:34:10.188Z",

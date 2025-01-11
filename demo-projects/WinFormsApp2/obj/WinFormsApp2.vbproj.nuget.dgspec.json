@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\WinFormsApp2\\WinFormsApp2.vbproj": {}
+    "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\demo-projects\\WinFormsApp2\\WinFormsApp2.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\WinFormsApp2\\WinFormsApp2.vbproj": {
+    "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\demo-projects\\WinFormsApp2\\WinFormsApp2.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\WinFormsApp2\\WinFormsApp2.vbproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\demo-projects\\WinFormsApp2\\WinFormsApp2.vbproj",
         "projectName": "WinFormsApp2",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\WinFormsApp2\\WinFormsApp2.vbproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\demo-projects\\WinFormsApp2\\WinFormsApp2.vbproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\WinFormsApp2\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\demo-projects\\WinFormsApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
