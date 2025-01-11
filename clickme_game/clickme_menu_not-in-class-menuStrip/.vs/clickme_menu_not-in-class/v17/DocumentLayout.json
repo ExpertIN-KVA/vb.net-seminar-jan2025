@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\clickme_game\\clickme_menu_not-in-class-menuStrip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F573029D-7695-4B18-AAE6-954D237971B4}|clickme_menu_not-in-class.vbproj|c:\\users\\administrator\\desktop\\vb.net-seminar-expertin\\clickme_game\\clickme_menu_not-in-class-menustrip\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F573029D-7695-4B18-AAE6-954D237971B4}|clickme_menu_not-in-class.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F573029D-7695-4B18-AAE6-954D237971B4}|clickme_menu_not-in-class.vbproj|c:\\users\\administrator\\desktop\\vb.net-seminar-expertin\\clickme_game\\clickme_menu_not-in-class-menustrip\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F573029D-7695-4B18-AAE6-954D237971B4}|clickme_menu_not-in-class.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\clickme_game\\clickme_menu_not-in-class-menuStrip\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\clickme_game\\clickme_menu_not-in-class-menuStrip\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAA8AAAAA///////nv1YAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-11T11:16:26.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\clickme_game\\clickme_menu_not-in-class-menuStrip\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vb.net-seminar-expertin\\clickme_game\\clickme_menu_not-in-class-menuStrip\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-11T11:11:57.469Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
