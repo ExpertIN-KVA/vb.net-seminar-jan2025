@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("menuStrip-demo"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d697f1034aeaa65da7b3c6da1ab923de7fcc139"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20cf8f76d72224cd44bf6c755343691724fe6b6e"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("menuStrip-demo"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("menuStrip-demo"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
